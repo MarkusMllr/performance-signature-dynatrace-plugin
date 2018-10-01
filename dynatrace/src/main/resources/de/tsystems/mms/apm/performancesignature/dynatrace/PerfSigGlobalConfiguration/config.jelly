@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <j:jelly xmlns:j="jelly:core" xmlns:f="/lib/form" xmlns:st="jelly:stapler">
-    <f:section title="${%Performance Signature}">
+    <f:section title="${%Performance Signature: Dynatrace AppMon}">
         <f:entry title="${%Dynatrace server configurations}">
             <f:repeatable field="configurations" header="${%Dynatrace server}" add="${%add Dynatrace server}">
                 <st:include page="config.jelly" class="${descriptor.clazz}"/>
