@@ -2,7 +2,7 @@
 [![Build Status](https://ci.jenkins.io/job/Plugins/job/performance-signature-dynatrace-plugin/job/master/badge/icon)](https://ci.jenkins.io/job/Plugins/job/performance-signature-dynatrace-plugin/job/master/)
 [![Sonarqube](https://sonarcloud.io/api/project_badges/measure?project=de.tsystems.mms.apm%3Aperformance-signature-parent-pom&metric=security_rating)](https://sonarcloud.io/dashboard?id=de.tsystems.mms.apm%3Aperformance-signature-parent-pom)
 
-Latest software products are created with the help of flexible and agile systems in a continuous integration (CI) environment. Such environments include a CI-Server like Jenkins.
+Smoking latest software products are created with the help of flexible and agile systems in a continuous integration (CI) environment. Such environments include a CI-Server like Jenkins.
  The Performance Signature collects performance values during a build and evaluates and compares the result with previous builds and non-functional requirements.
  Several software tests can be run and evaluated automatically, so that the most important key performance indicators (KPI) can be summarized and be available for all project participants very quickly.
 
